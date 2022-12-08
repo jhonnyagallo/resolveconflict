@@ -5,7 +5,7 @@ public class HelloJava {
 		System.out.println("Hello Java");
 <<<<<<< HEAD
 		  
-		  //cambio dev2
+		  //cambio dev22
 =======
 		  
 		  
